@@ -1,4 +1,5 @@
 **Introducing DAIT.DEV: Decenteralized AI Model Training Infrastructure**
+
 About Us
 
 DAIT is a groundbreaking project focused on transforming the landscape of AI model training infrastructure. Our mission is to make AI model training faster, more affordable, and accessible to all. With a deep commitment to decentralization and democratization, we're pioneering a decentralized parallel training infrastructure that empowers data scientists, machine learning engineers, AI specialists, and researchers to collaborate seamlessly.
